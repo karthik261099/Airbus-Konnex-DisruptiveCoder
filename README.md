@@ -12,6 +12,15 @@
 - Android Device
 - Python Anaconda 
 
+## Features
+- NLP based Chatbot
+- OCR Text Recognition
+- On Screen Object detection & Navigator
+- Bug reporting window
+- Cloud based Notifications
+- CPU utilization analytics
+- Client side user activity analytics
+
 ## Set-up
 - Clone the repository to your local machine
 - Open Anaconda Prompt
