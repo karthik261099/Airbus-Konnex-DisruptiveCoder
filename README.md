@@ -46,4 +46,3 @@ ipconfig
 ![alt text](https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(4).jpeg)
 ![alt text](https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(5).jpeg)
 ![alt text](https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(6).jpeg)
-![alt text](https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(7).jpeg)
