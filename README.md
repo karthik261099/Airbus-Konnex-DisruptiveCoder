@@ -48,14 +48,18 @@ ipconfig
 * Floating Android Widget which expands on clicking it. It runs as a background service.
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(1).jpeg" width="300">
 <hr>
+
 - Expanded view of the Floating Widget. Feautures : Notifications, FAQ Chatbot, Bug reporting & Image Search
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(6).jpeg" width="300">
 <hr>
+
 - Notifications Page
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(3).jpeg" width="300">
 <hr>
+
 - Chatbot Page which communicates with the AI powered backend system
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(4).jpeg" width="300">
 <hr>
+
 - Bug Reporting Window. It captures the text data entered by the user as well as screenshot where the error occured
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(5).jpeg" width="300">
