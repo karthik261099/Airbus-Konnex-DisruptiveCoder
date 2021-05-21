@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kbrosapp.konnex.MainActivity"
+    android:background="@color/darkShadeOfPrimary">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textSize="35dp"
+        android:text="Konnex Assistant" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:text="By\n DisruptiveCoder" />
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="32dp"
+        android:padding="20dp"
+        android:background="@color/green"
+        android:textColor="#ffffff"
+        android:textSize="16dp"
+        android:text="ACTIVATE ASSISTANT" />
+
+</RelativeLayout>

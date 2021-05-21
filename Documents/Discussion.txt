@@ -1,0 +1,29 @@
+Multiple app, Currently a single app?
+1. OCR --> text --> focus on app
+2. Chat bot with existing FAQs
+3. Bug reporting which records the current screen
+4. Notifications
+5. Measure for how much time a particular Page/Activity is being viewed
+6. CPU Usage
+
+Apps
+1. CoWin
+
+Tech stack:
+1. Android 
+2. MLKit - OCR for text detection
+3. TFLite - Train on FAQs
+
+
+
+
+
+
+
+
+
+
+
+
+
+

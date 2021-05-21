@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4285F4</color>
+    <color name="colorPrimaryDark">#4285F4</color>
+    <color name="colorAccent">#4285F4</color>
+
+    <color name="passwordMainActivityBg">#FFFFFF</color>
+
+    <color name="sideDrawerBg">#FFFFFF</color>
+
+    <color name="infoCardBg">#FFFFFF</color>
+    <color name="infoCardStroke">#000000</color>
+    <color name="infoCardButtonBg">#FFC107</color>
+    <color name="infoCardButtonStroke">#000000</color>
+    <color name="infoCardButtonText">#000000</color>
+
+    <color name="darkShadeOfPrimary">#274F92</color>
+
+    <color name="textColor">#4285F4</color>
+
+    <color name="textColor2">#000000</color>
+
+    <color name="accountCardBg">#FFFFFF</color>
+
+    <color name="accountsCDBHeadingBackground">#FFA500</color>
+
+    <color name="calendarDateGridItem">#FFFFFF</color>
+    <color name="calendarDateGridItemStroke">#000000</color>
+
+    <color name="manageCatModeButtonTab">#FFFFFF</color>
+    <color name="manageCatModeButtonTabStroke">#000000</color>
+
+    <color name="creditTextColor">#000000</color>
+    <color name="debitTextColor">#000000</color>
+    <color name="balanceTextColor">#000000</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+
+    <color name="entryBackgroundCredit">#4CAF50</color>
+    <color name="entryBackgroundDebit">#F44336</color>
+    <color name="entryBackgroundZero">#00BCD4</color>
+
+    <color name="entryTextCredit">#FFFFFF</color>
+    <color name="entryTextDebit">#FFFFFF</color>
+    <color name="entryTextZero">#FFFFFF</color>
+
+    <!--FAB-->
+    <color name="yellow">#FFC107</color>
+
+    <color name="dialogBgColor">#E1ECFD</color>
+
+    <color name="greenButtonBg">#28A745</color>
+    <color name="greenButtonStroke">#1C7430</color>
+    <color name="greenButtonText">#FFFFFF</color>
+    <color name="redButtonBg">#DC3545</color>
+    <color name="redButtonStroke">#B21F2D</color>
+    <color name="redButtonText">#FFFFFF</color>
+
+    <color name="blueWithLessAlpha">#284285F4</color>
+    <color name="accountsCDBHeadingText">#000000</color>
+
+</resources>
