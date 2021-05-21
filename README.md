@@ -59,4 +59,4 @@ ipconfig
 - Bug Reporting Window. It captures the text data entered by the user as well as screenshot where the error occured
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(5).jpeg" width="300">
 
-<br>
+<hr>
