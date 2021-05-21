@@ -41,11 +41,21 @@ ipconfig
 
 ## Screenshots
 
-- MainActivity which contains button to invoke a background Android Service
+- MainActivity which contains button to invoke a Background Android Service for Floating Android Widget
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(2).jpeg" width="300">
+---
+- Floating Android Widget which expands on clicking it. It runs as a background service.
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(1).jpeg" width="300">
+---
+- Expanded view of the Floating Widget. Feautures : Notifications, FAQ Chatbot, Bug reporting & Image Search
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(6).jpeg" width="300">
+---
+- Notifications Page
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(3).jpeg" width="300">
+---
+- Chatbot Page which communicates with the AI powered backend system
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(4).jpeg" width="300">
+---
+- Bug Reporting Window. It captures the text data entered by the user as well as screenshot where the error occured
 <img src="https://github.com/karthik261099/Airbus-Konnex-DisruptiveCoder/blob/master/Documents/Screenshot/%20%20(5).jpeg" width="300">
 
