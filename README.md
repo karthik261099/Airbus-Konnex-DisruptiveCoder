@@ -29,8 +29,9 @@
 ```sh
 conda env create -f environment.yml
 ``` 
-- After installation of all the dependencies run bot.py using 
+- After installation of all the dependencies run model.py and bot.py using 
 ```sh
+python model.py
 python bot.py
 ``` 
 - This will start running a local server for chatbot
